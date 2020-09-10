@@ -1,4 +1,40 @@
+/*-----------------------------------------------------------------------------------
 
+    Template Name: Flone - Minimalist eCommerce Bootstrap 4 Template
+    Version: 1
+
+-----------------------------------------------------------------------------------
+    
+    CSS INDEX
+    ===================
+	
+    1. Template default CSS
+    2. Header style
+    3. Slider style
+    4. Support style
+    5. Section title style
+    6. Product style
+    7. Blog style
+    8. Footer style
+    9. Banner style
+    10. Suscribe style
+    11. About style
+    12. instagram style
+    13. Testimonial style
+    14. Brand logo style
+    15. Timer style
+    16. Breadcrumb style
+    17. Sidebar style
+    18. Shop page
+    19. Product details page
+    20. Cart page
+    21. Checkout page
+    22. contact Page
+    23. Blog Details Page
+    24. login register Page
+    25. My account Page
+    
+-----------------------------------------------------------------------------------*/
 /*----------------------------------------*/
 /*  1. Template default CSS
 /*----------------------------------------*/
@@ -16,7 +52,7 @@ body {
   height: 100%; }
 
 body {
-  background-color: #fff;
+  background-color: #ffffff;
   line-height: 24px;
   font-size: 14px;
   font-style: normal;
@@ -6154,7 +6190,7 @@ a.default-btn {
   display: none; }
 
 .subscribe-style-2 .subscribe-form-2 form .clear-2 {
-  background: rgba(0, 0, 0, 0) url("assets/img/icon-img/suscribe.png") no-repeat scroll right 0 center;
+  background: rgba(0, 0, 0, 0) url("../../assets/img/icon-img/suscribe.png") no-repeat scroll right 0 center;
   bottom: 0px;
   display: inline-block;
   position: absolute;
@@ -6837,7 +6873,7 @@ a.default-btn {
         -moz-appearance: none;
         -webkit-appearance: none;
         min-width: 143px;
-        background: rgba(0, 0, 0, 0) url("assets/img/icon-img/select.png") no-repeat scroll right 0px center; }
+        background: rgba(0, 0, 0, 0) url("../../assets/img/icon-img/select.png") no-repeat scroll right 0px center; }
     .shop-top-bar .select-shoing-wrap p {
       color: #606060;
       margin: 0; }
@@ -7700,7 +7736,7 @@ h3.cart-page-title {
         .discount-code-wrapper .tax-wrapper .tax-select-wrapper .tax-select select {
           -moz-appearance: none;
           -webkit-appearance: none;
-          background: #fff url("./assets/img/icon-img/cart.png") no-repeat scroll right 18px center;
+          background: #fff url("../../assets/img/icon-img/cart.png") no-repeat scroll right 18px center;
           border: 1px solid #ebebeb;
           -webkit-box-shadow: none;
           box-shadow: none;
@@ -7893,7 +7929,7 @@ h3.cart-page-title {
   font-size: 14px;
   height: 45px;
   padding: 2px 20px;
-  background: rgba(0, 0, 0, 0) url("assets/img/icon-img/select.png") no-repeat scroll right 18px center;
+  background: rgba(0, 0, 0, 0) url("../../assets/img/icon-img/select.png") no-repeat scroll right 18px center;
   cursor: pointer; }
 
 .billing-info-wrap .checkout-account {
