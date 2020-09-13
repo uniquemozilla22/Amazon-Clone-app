@@ -8,6 +8,7 @@ function App() {
     <div className="App">
     <SearchBar />
     <ProductSearch/>
+    <ProductSearch/>
     </div>
   );
 }

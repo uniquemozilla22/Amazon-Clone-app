@@ -1,0 +1,32 @@
+.flex{
+    display: flex;
+    margin:10% 10% 0 10%;
+    width:100%;
+
+}
+label{
+    color:white;
+}
+.flex input{
+    width:60%;
+    height: 50px;
+    border-radius: 10px 0px 0px 10px;
+    font-size: 30px;
+    padding: 10px;
+
+}
+.flex input:focus{
+    background-color: rgb(242, 250, 192);
+}
+.flex button{
+    border-radius: 0px 10px 10px 0px;
+    width:40%;
+    font-size: 20px;
+    height: 50px;
+}
+@media (max-width:500px){
+    .flex input{
+        font-size: 20px;
+       
+    }
+}

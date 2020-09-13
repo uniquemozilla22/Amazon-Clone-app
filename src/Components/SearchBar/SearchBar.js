@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import Axios from 'axios'
+import './SearchBar.css'
 
 export default class SearchBar extends Component {
 
@@ -12,12 +13,15 @@ export default class SearchBar extends Component {
     }
     render() {
         return (
-            <div className="row">
-                <div className="col flex" style={{'margin':'10%','marginBottom':'0','paddingTop':'10%'}}>
+        <div>
 
-                <input type="text" style={{'width':'80%','height':'100px',fontSize:'40px',color:'red'}}></input>
-                <button type="submit"style={{'width':'10%','height':'100px',fontSize:'25px',padding:'0',margin:'0'}}>Submit</button>
+            <div className="row pt-100">
+                
+                <div className="col flex">
+                <input type="text" placeholder="Product Name"></input>
+                <button type="submit">Submit</button>
                 </div>
+            </div>
             </div>
             )
     }
