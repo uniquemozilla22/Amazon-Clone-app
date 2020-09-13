@@ -12,7 +12,7 @@ const ProductSearch = () => {
             <div className='description'>
             <div className="title">
                     <h3>Product Here</h3>
-                    <p className="desltop-only">This is the part for description</p>
+                    <p className="desktop-only">This is the part for descriptionhis is the part for descriptionhis is the paronhis is the paronhis is the paronhis is the paronhis is the paronhis is the paronhis is the paronhis is the paronhis is the paronhis is the paronhis is the paronhis is the paronhis is the paronhis is the part for descriptionhis is the part for descriptionhis is the part for descriptionhis is the part for descriptionhis is the part for descriptionhis is the part for descriptionhis is the part for descriptionhis is the part for descriptionhis is the part for descriptionhis is the part for descriptionhis is the part for descriptionhis is the part for descriptionhis is the part for descriptionhis is the part for descriptionhis is the part for descriptionhis is the part for descriptionhis is the part for description</p>
                     <div>
                         <p>Review</p>
                     <i className="fas fa-star"></i>
@@ -23,8 +23,7 @@ const ProductSearch = () => {
                 </div>
                 </div>
             <div className="pricing">
-                <h3>$99</h3>
-                
+                <h3>$99</h3>                
             </div>
             </div>
                 

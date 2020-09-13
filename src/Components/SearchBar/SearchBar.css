@@ -2,11 +2,11 @@
     display: flex;
     margin:10% 10% 0 10%;
     width:100%;
-
 }
 label{
     color:white;
 }
+
 .flex input{
     width:60%;
     height: 50px;
@@ -17,6 +17,8 @@ label{
 }
 .flex input:focus{
     background-color: rgb(242, 250, 192);
+    box-shadow: 2px 2px 10px #ff2;
+
 }
 .flex button{
     border-radius: 0px 10px 10px 0px;
