@@ -13,7 +13,7 @@ const ProductSearch = () => {
             <div className="title">
                     <h3>Product Here</h3>
                     <p className="desktop-only">This is the part for descriptionhis is the part for descriptionhis is the paronhis is the paronhis is the paronhis is the paronhis is the paronhis is the paronhis is the paronhis is the paronhis is the paronhis is the paronhis is the paronhis is the paronhis is the paronhis is the part for descriptionhis is the part for descriptionhis is the part for descriptionhis is the part for descriptionhis is the part for descriptionhis is the part for descriptionhis is the part for descriptionhis is the part for descriptionhis is the part for descriptionhis is the part for descriptionhis is the part for descriptionhis is the part for descriptionhis is the part for descriptionhis is the part for descriptionhis is the part for descriptionhis is the part for descriptionhis is the part for description</p>
-                    <div>
+                    <div classNmae="review">
                         <p>Review</p>
                     <i className="fas fa-star"></i>
                     <i className="fas fa-star"></i>

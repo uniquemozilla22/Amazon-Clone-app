@@ -36,6 +36,9 @@
 .desktop-only{
     height: 50%;
 }
+.review{
+    color:#fff;
+}
 
 @media (max-width:500px){
     .title h3{
