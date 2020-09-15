@@ -3,6 +3,10 @@ import Axios from 'axios'
 import './SearchBar.css'
 
 export default class SearchBar extends Component {
+    
+    state={
+        
+    }
 
     componentDidMount(){
         Axios.get("")
